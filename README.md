@@ -4,7 +4,8 @@
 [![Discord Badge](https://img.shields.io/badge/-IT%20Rebeles-8B89CC?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/pPTruDZgfU)](https://discord.gg/pPTruDZgfU)
 [![Instagram Badge](https://img.shields.io/badge/-kritik.sah-fbad50?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/kritik.sah/)](https://www.instagram.com/kritik.sah/)
 [![Youtube Badge](https://img.shields.io/badge/-IT%20Rebels-ff0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCh7-f_QrD7WcQcu62CixiHQ)](https://www.youtube.com/channel/UCh7-f_QrD7WcQcu62CixiHQ)
-<a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
+<a href="https://aboutkritik.blogspot.com/"><img alt="Portfolio" src="img/1.jpg" align="center" height="auto" width="100%" /></a>
+<a href="https://aboutkritik.blogspot.com/"><img alt="Portfolio" src="img/2.jpg" align="center" height="auto" width="100%" /></a>
 
 ### I am Kritik Sah
 
