@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why business is better then Jobs #business #tax #jobs #money](https://www.youtube.com/watch?v=t05NKJJKeOI)
 - [Full Audiobook || Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship](https://www.youtube.com/watch?v=6Je2cMvzBpU)
 - [India's farm bill 2020 original document in audio zero tempered.](https://www.youtube.com/watch?v=gBOzvbpOpnA)
 - [Full Audiobook || The Education of Millionaires: Everything You Won't Learn in College](https://www.youtube.com/watch?v=nY_r2H9ZzdU)
 - [my new blog responsive mobile view😍](https://www.youtube.com/watch?v=6AGdjERoBD4)
-- [IT Rebels Brand new Blog. 🔥🔥🔥](https://www.youtube.com/watch?v=U-PWBPoR83c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCh7-f_QrD7WcQcu62CixiHQ)
