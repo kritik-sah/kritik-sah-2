@@ -46,9 +46,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [UI/UX key differences, what is UI/UX in 20 seconds](https://www.youtube.com/watch?v=4MxutaPC_V0)
-- [Which programming languages you should learn? #python #javascript](https://www.youtube.com/watch?v=vQ3ul3_THdk)
-- [Why business is better then Jobs #business #tax #jobs #money](https://www.youtube.com/watch?v=t05NKJJKeOI)
+- [UI/UX key differences, what is UI/UX in 20 seconds #shorts](https://www.youtube.com/watch?v=4MxutaPC_V0)
+- [Which programming languages you should learn? #python #javascript #shorts](https://www.youtube.com/watch?v=vQ3ul3_THdk)
+- [Why business is better then Jobs #business #tax #jobs #money #shorts](https://www.youtube.com/watch?v=t05NKJJKeOI)
 - [Full Audiobook || Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship](https://www.youtube.com/watch?v=6Je2cMvzBpU)
 - [India's farm bill 2020 original document in audio zero tempered.](https://www.youtube.com/watch?v=gBOzvbpOpnA)
 <!-- YOUTUBE:END -->
