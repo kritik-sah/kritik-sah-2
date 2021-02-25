@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Creating a tribute website for @carryminati. #shorts](https://www.youtube.com/watch?v=QQO3hvG7aag)
 - [Full React Course 2020-21 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=2eSRL8ILJUU)
 - [what is web development in simple words. #shorts](https://www.youtube.com/watch?v=4IIpjdd4hI0)
 - [UI/UX key differences, what is UI/UX in 20 seconds #shorts](https://www.youtube.com/watch?v=4MxutaPC_V0)
 - [Which programming languages you should learn? #python #javascript #shorts](https://www.youtube.com/watch?v=vQ3ul3_THdk)
+- [Why business is better then Jobs #business #tax #jobs #money #shorts](https://www.youtube.com/watch?v=t05NKJJKeOI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCh7-f_QrD7WcQcu62CixiHQ)
