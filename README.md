@@ -46,7 +46,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Creating a tribute website for @carryminati. #shorts](https://www.youtube.com/watch?v=dHYDe8kiFF8)
+- [I created a tribute website for carryminati.🤩](https://www.youtube.com/watch?v=dHYDe8kiFF8)
 - [Creating a tribute website for @carryminati. #shorts](https://www.youtube.com/watch?v=g2ehVRZjOLY)
 - [Full React Course 2020-21 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=2eSRL8ILJUU)
 - [what is web development in simple words. #shorts](https://www.youtube.com/watch?v=4IIpjdd4hI0)
