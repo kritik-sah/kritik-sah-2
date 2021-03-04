@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [FullAudiobook|The Subtle Art of Not Giving a F*ck:A Counterintuitive Approach to Living a Good Life](https://www.youtube.com/watch?v=DIwRI5eR51Y)
 - [I created a tribute website for carryminati.🤩](https://www.youtube.com/watch?v=dHYDe8kiFF8)
 - [Creating a tribute website for @carryminati. #shorts](https://www.youtube.com/watch?v=g2ehVRZjOLY)
 - [Full React Course 2020-21 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=2eSRL8ILJUU)
 - [what is web development in simple words. #shorts](https://www.youtube.com/watch?v=4IIpjdd4hI0)
-- [UI/UX key differences, what is UI/UX in 20 seconds #shorts](https://www.youtube.com/watch?v=4MxutaPC_V0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCh7-f_QrD7WcQcu62CixiHQ)
