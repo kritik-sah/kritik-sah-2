@@ -60,11 +60,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [how to create react applications my personalized react stater pack](https://it-rebels.blogspot.com/2021/02/how-to-create-react-applications-my.html)
-- [Full Audiobook |The Art of Public Speaking by Dale Carnegie and Joseph Berg Esenwein's](https://it-rebels.blogspot.com/2021/02/full-audiobook-art-of-public-speaking.html)
-- [Full Audiobook |The Compound Effect: Multiply Your Success One Simple Step at a Time](https://it-rebels.blogspot.com/2021/02/full-audiobook-compound-effect-multiply.html)
-- [FullAudiobook|The Subtle Art of Not Giving a F*ck:A Counterintuitive Approach to Living a Good Life](https://it-rebels.blogspot.com/2021/02/The Subtle Art of Not Giving a FckA Counterintuitive Approach to Living a Good Life.html)
-- [Full Audiobook |Atomic Habits by James Clear |An Easy & Proven Way to Build Good Habits](https://it-rebels.blogspot.com/2021/02/full-audiobook-atomic-habits-by-james.html)
+- [Who am I? Hello world from IT Rebeles aka Kritik Sah](https://it-rebels.blogspot.com/2021/03/who-am-i-hello-world-from-it-rebeles.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://it-rebels.blogspot.com/)
