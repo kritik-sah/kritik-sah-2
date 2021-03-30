@@ -60,6 +60,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [how to use git & Github](https://it-rebels.blogspot.com/2021/03/how-to-use-git-github.html)
 - [Who am I? Hello world from IT Rebeles aka Kritik Sah](https://it-rebels.blogspot.com/2021/03/who-am-i-hello-world-from-it-rebeles.html)
 <!-- BLOG-POST-LIST:END -->
 
