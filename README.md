@@ -47,7 +47,7 @@
 
 <!-- YOUTUBE:START -->
 - [FullAudiobook| SELL LIKE CRAZY: How to Get As Many Clients.](https://www.youtube.com/watch?v=pwoZQBbXxJM)
-- [Creating a web server on vm  virtual box [ubuntu, LAMP, aapanel]](https://www.youtube.com/watch?v=35GCw7KvBnU)
+- [how to Creating a web server on vm  virtual box [ubuntu, LAMP, aapanel]](https://www.youtube.com/watch?v=35GCw7KvBnU)
 - [IT Rebel: Starting my Adventure Today as a Web Developer so I will be the world Richest Man by 2050](https://www.youtube.com/watch?v=0UM8_k5ByIs)
 - [IT Rebel: Starting my Adventure Today as a Web Developer so I will be the world Richest Man by 2050](https://www.youtube.com/watch?v=fIIh_hT89aA)
 - [FullAudiobook|The Subtle Art of Not Giving a F*ck:A Counterintuitive Approach to Living a Good Life](https://www.youtube.com/watch?v=DIwRI5eR51Y)
