@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#hacking #kali #linux](https://www.youtube.com/watch?v=nPh-50ZtV88)
 - [how to Creating a web server on vm  virtual box [ubuntu, LAMP, aapanel]](https://www.youtube.com/watch?v=35GCw7KvBnU)
 - [IT Rebel: Starting my Adventure Today as a Web Developer so I will be the world Richest Man by 2050](https://www.youtube.com/watch?v=0UM8_k5ByIs)
 - [IT Rebel: Starting my Adventure Today as a Web Developer so I will be the world Richest Man by 2050](https://www.youtube.com/watch?v=fIIh_hT89aA)
 - [I created a tribute website for carryminati.🤩](https://www.youtube.com/watch?v=dHYDe8kiFF8)
-- [Creating a tribute website for @carryminati. #shorts](https://www.youtube.com/watch?v=g2ehVRZjOLY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCh7-f_QrD7WcQcu62CixiHQ)
