@@ -46,6 +46,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Services Strategy account basics and post creations](https://www.youtube.com/watch?v=r4nT4stNrCI)
 - [how to use YouTube as a tool for real estate business to generate passive leads by Services Strategy](https://www.youtube.com/watch?v=Zr-c7N-mu9Q)
 <!-- YOUTUBE:END -->
 
