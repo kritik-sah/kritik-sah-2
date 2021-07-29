@@ -1,10 +1,10 @@
 # Hello! 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Kritik%20Sah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kritik-sah-620109197//)](https://www.linkedin.com/in/kritik-sah-620109197/)
-[![Twitter Badge](https://img.shields.io/badge/-@KritikSah-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/itrebeles)](https://twitter.com/itrebeles)
+[![Twitter Badge](https://img.shields.io/badge/-@KritikSah-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/itrebeles)](https://twitter.com/itrebels_in)
 [![Discord Badge](https://img.shields.io/badge/-IT%20Rebeles-8B89CC?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/pPTruDZgfU)](https://discord.gg/pPTruDZgfU)
 [![Instagram Badge](https://img.shields.io/badge/-kritik.sah-fbad50?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/kritik.sah/)](https://www.instagram.com/kritik.sah/)
 [![Youtube Badge](https://img.shields.io/badge/-IT%20Rebels-ff0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCh7-f_QrD7WcQcu62CixiHQ)](https://www.youtube.com/channel/UCh7-f_QrD7WcQcu62CixiHQ)
-<a href="https://aboutkritik.blogspot.com/"><img alt="Portfolio" src="img/1.jpg" align="center" height="auto" width="100%" /></a>
+<a href="https://sahkritik.netlify.com/"><img alt="Portfolio" src="img/1.jpg" align="center" height="auto" width="100%" /></a>
 
 
 ### I am Kritik Sah
