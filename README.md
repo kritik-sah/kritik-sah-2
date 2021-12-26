@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Complete HTML course and its usage 2022 updated](https://www.youtube.com/watch?v=llWgcwuE0Bg)
 - [Services Strategy account basics and post creations](https://www.youtube.com/watch?v=r4nT4stNrCI)
 - [how to use YouTube as a tool for real estate business to generate passive leads by Services Strategy](https://www.youtube.com/watch?v=Zr-c7N-mu9Q)
 - [Full Audiobook || The Education of Millionaires: Everything You Won&#39;t Learn in College](https://www.youtube.com/watch?v=nY_r2H9ZzdU)
 - [Full Audiobook || The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime!](https://www.youtube.com/watch?v=vNwDEynILH0)
-- [Never Split The Difference By Chris Voss With Tahl Raz || Full Audiobook](https://www.youtube.com/watch?v=QHZYmfHCEs4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCh7-f_QrD7WcQcu62CixiHQ)
