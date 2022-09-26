@@ -43,31 +43,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-- [Learn HTML by building an Anime-Inspired website for beginners. an essential skill for bloggers.](https://www.youtube.com/watch?v=qfdxfOTdX9k)
-- [Complete HTML course and its usage including blogging and SEO 2022 updated](https://www.youtube.com/watch?v=llWgcwuE0Bg)
-- [The Education of Millionaires: Everything You Won&#39;t Learn in College || Full Audiobook](https://www.youtube.com/watch?v=nY_r2H9ZzdU)
-- [Full Audiobook || The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime!](https://www.youtube.com/watch?v=vNwDEynILH0)
-- [Never Split The Difference By Chris Voss With Tahl Raz || Full Audiobook](https://www.youtube.com/watch?v=QHZYmfHCEs4)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCh7-f_QrD7WcQcu62CixiHQ)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Creating a web server on vm virtual box [ubuntu, LAMP, aapanel]](https://it-rebels.blogspot.com/2021/04/creating-web-server-on-vm-virtual-box.html)
-- [how to use git &amp; Github](https://it-rebels.blogspot.com/2021/03/how-to-use-git-github.html)
-- [Who am I? Hello world from IT Rebeles aka Kritik Sah](https://it-rebels.blogspot.com/2021/03/who-am-i-hello-world-from-it-rebeles.html)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://it-rebels.blogspot.com/)
-
----
 
 ## Some of my Github Stats
 ![Piraces github stats](https://github-readme-stats.vercel.app/api?username=kritik-sah&show_icons=true)
