@@ -1,51 +1,56 @@
-# Hello! 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Kritik%20Sah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kritik-sah-620109197//)](https://www.linkedin.com/in/kritik-sah-620109197/)
-[![Twitter Badge](https://img.shields.io/badge/-@KritikSah-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/itrebeles)](https://twitter.com/itrebels_in)
-[![Discord Badge](https://img.shields.io/badge/-IT%20Rebeles-8B89CC?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/pPTruDZgfU)](https://discord.gg/pPTruDZgfU)
+# Hello! 👋 I am Kritik Sah
+[![Linkedin Badge](https://img.shields.io/badge/-Kritik%20Sah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kritiksah/)](https://www.linkedin.com/in/kritiksah)
+[![Twitter Badge](https://img.shields.io/badge/-@KritikSah-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sahkritik)](https://twitter.com/sahkritik)
+[![Discord Badge](https://img.shields.io/badge/-IT%20Rebeles-8B89CC?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/wHxK4VGPbV)](https://discord.gg/wHxK4VGPbV)
 [![Instagram Badge](https://img.shields.io/badge/-kritik.sah-fbad50?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/kritik.sah/)](https://www.instagram.com/kritik.sah/)
-[![Youtube Badge](https://img.shields.io/badge/-IT%20Rebels-ff0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCh7-f_QrD7WcQcu62CixiHQ)](https://www.youtube.com/channel/UCh7-f_QrD7WcQcu62CixiHQ)
-<a href="https://sahkritik.netlify.com/"><img alt="Portfolio" src="img/1.jpg" align="center" height="auto" width="100%" /></a>
+[![Youtube Badge](https://img.shields.io/badge/-IT%20Rebels-ff0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/itrebels)](https://www.youtube.com/itrebels)
+<p align="left">
+  <img src="https://img.shields.io/github/followers/kritik-sah?color=1f222e&label=Followers&style=social" alt="kritik-sah" /> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=kritik-sah&label=Profile%20views&color=0e75b6&style=flat" alt="kritik-sah" />
+</p>
 
-
-### I am Kritik Sah
-
-- 🔭 I'm a Self Tought 👨‍💻🎧 & Full Stack developer who is passionate about Web Development, Cloud computing architecture, and open source.
-
-- 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
-
-- 🚴‍♂️ I love cycling and walking in the countryside.
-
-- 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
-
-- 📫 How to reach me: use the badges above 😃
-
-- ⚡ I have a blog at https://it-rebels.blogspot.com/ where I try to post as frequently as I can. Everything I post is tech, crypto, Business related and about things I find interesting to explain or to make others know about it.
-
+# Profile
+Greetings, my name is Kritik, and I am a 23-year-old frontend web developer. I possess a strong zeal for expanding my knowledge and skillset within the realm of web3 and blockchain technology.
 <br />
 
-### Languages and Tools:
-- Want to learn more but more Importantly I want to practice this skills more.
+# Open-Source contributions / Badges
+|2023 POAP.gallery<br/>Contributor|
+|-----------------|
+|[<img src="https://assets.poap.xyz/gitpoap3a-2023-poapgallery-contributor-2022-logo-1671234027079.png" width="100" alt="kritik-sah" />](https://www.gitpoap.io/gp/817)|
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/django/django.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br/>
-<br/>
-
----
+# Open For
+- [Work] Frontend lead, Solidity developer / Auditing, Dev. rel. Community management, Business Development roles in web3.
+- [Collabration] contact me on [twitter](https://twitter.com/sahkritik), would love to work with you😁.
+- [Sponsorship] We are on a mission to on-board 1000 devs in Web3, We definitely need support. so let us know what can we do for you and what can you offer, currently, we have around 7.1k subs on our youtube channel, where I post web development content, tutorials, and projects, and recently started teaching web3 development too.
 
 
+[📄 Download my CV](https://github.com/kritik-sah/resume/raw/main/2023/resume.pdf)
 
-## Some of my Github Stats
-![Piraces github stats](https://github-readme-stats.vercel.app/api?username=kritik-sah&show_icons=true)
+## Some of my GitHub Stats
+<h3>Trophies 🏆:</h3>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=kritik-sah&theme=onedark&margin-h=15&margin-w=15&column=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=kritik-sah&margin-w=15&margin-h=15&column=8" alt="kritik-sah" />
+  </picture>
+</p>
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kritik-sah&show_icons=true&locale=en&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=kritik-sah&show_icons=true&locale=en" alt="kritik-sah" />
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kritik-sah&show_icons=true&locale=en&layout=compact&theme=dark">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritik-sah&show_icons=true&locale=en&layout=compact" alt="kritik-sah" />
+  </picture>
+</p>
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kritik-sah&theme=dark">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritik-sah&" alt="kritik-sah" />
+  </picture>
+</p>
 
 ⭐️ From [kritik-sah](https://github.com/kritik-sah)
