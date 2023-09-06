@@ -14,10 +14,9 @@ Greetings, my name is Kritik, and I am a 23-year-old frontend web developer. I p
 <br />
 
 # Open-Source contributions / Badges
-|2023 POAP.gallery<br/>Contributor|
-|-----------------|
-|[<img src="https://assets.poap.xyz/gitpoap3a-2023-poapgallery-contributor-2022-logo-1671234027079.png" width="100" alt="kritik-sah" />](https://www.gitpoap.io/gp/817)|
-
+|2023 POAP.gallery<br/>Contributor|2023 ethereum.org<br/>Contributor|
+|-----------------|-------------------|
+|[<img src="https://assets.poap.xyz/gitpoap3a-2023-poapgallery-contributor-2022-logo-1671234027079.png" width="100" alt="kritik-sah" />](https://www.gitpoap.io/p/itrebel.eth)|[<img src="https://assets.poap.xyz/gitpoap3a-2023-ethereumorg-contributor-2022-logo-1671568487547.png" width="100" alt="kritik-sah" />](https://www.gitpoap.io/p/itrebel.eth)|
 # Open For
 - [Work] Frontend lead, Solidity developer / Auditing, Dev. rel. Community management, Business Development roles in web3.
 - [Collabration] contact me on [twitter](https://twitter.com/sahkritik), would love to work with you😁.
@@ -52,5 +51,22 @@ Greetings, my name is Kritik, and I am a 23-year-old frontend web developer. I p
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritik-sah&" alt="kritik-sah" />
   </picture>
 </p>
+
+## Support us
+help me out to make more educational content and contribution to opensource projects.
+
+itrebel.eth [ETH, MATIC, BNB chain]: metamask
+
+AaG3kBDvUjUgyYH6T8pwDVskNFUPMmSWVVJtUVM9UeBd [Solana]
+
+0xb64499fe6be6368c6e305ecc3b37dd15d584dcecabb3b27bab6e3c97100aab9b [Aptos - petra wallet]
+
+3GBbpgGn2szbY6bJRULqPBts4s316LLreM [bitcoin wallet - Xverse wallet]
+
+## sponsorship
+Sponsor our courses & channel ITRebels We are on a mission to onboard 1000 devs in Web3.
+
+please email us if you want to help/sponsor us out itrebels.in@gmail.com
+
 
 ⭐️ From [kritik-sah](https://github.com/kritik-sah)
